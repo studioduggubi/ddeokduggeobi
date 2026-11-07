@@ -5,14 +5,14 @@
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-    "path": "docs/assets/index-C_bHM7kr.css",
-    "size": 136450,
-    "sha256": "5fef2fd1f2f800bba4de7bbfae13903a68ef3fdb492b3635652d01dc7abafd9e"
+    "path": "docs/assets/index-BRGUVNF0.js",
+    "size": 499126,
+    "sha256": "9340d69e305058580356f6f900e8b11d5af525225b52d127cd5aa96676415736"
   },
   {
-    "path": "docs/assets/index-D6Pr6JO1.js",
-    "size": 299596,
-    "sha256": "fe516a27da4e89c317688000ef7df61276fc8efd3731581ec74424a9964faa69"
+    "path": "docs/assets/index-tfPBtIPG.css",
+    "size": 206160,
+    "sha256": "3d95314a07a44fd9e7168556f57ec74f0d5c21103668f0b2b5ee9a0dc49aae3a"
   },
   {
     "path": "docs/favicon.svg",
@@ -21,8 +21,8 @@
   },
   {
     "path": "docs/index.html",
-    "size": 814,
-    "sha256": "6ef30c8f832b834883f6bc759f65dc9fe69b67c335834ba54dc9841c2400052d"
+    "size": 1021,
+    "sha256": "f08907198b9df2346c72f5baad3746e2d497f6d1d0d81d8f8be920d8b8a55c31"
   },
   {
     "path": "docs/reference-report.pdf",
@@ -35,8 +35,18 @@
     "sha256": "fcdced7180f4e8b02f6fc1459182600200c50dae4d416e1528f1aab49f75d029"
   },
   {
+    "path": "docs/scoring-standard.json",
+    "size": 1842,
+    "sha256": "e86a4408d2fb641251133ee835ca765c879c2badc3bceb02a4a310c8db60e09b"
+  },
+  {
+    "path": "docs/third-party-notices.txt",
+    "size": 1134,
+    "sha256": "1810403825135efa3109632a224829835cbc73c42d782d056a151f531f4c9086"
+  },
+  {
     "path": "docs/validation.json",
     "size": 835,
-    "sha256": "29e9697c9e21d037b5ddfd0f4bc743e8b192103ba99a2b5ed7860f16502497c9"
+    "sha256": "8a83afc1d777e851a4a998f964dd63ea5a4185f3d606f1148cf36f2c33bb5878"
   }
 ]
