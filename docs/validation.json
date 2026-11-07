@@ -1,0 +1,24 @@
+{
+  "engine": "ddeokduggeobi-1.0.0",
+  "verifiedAt": "2026-11-07T05:54:42.180Z",
+  "passed": true,
+  "assertions": 39170,
+  "independentDailyComparisons": 32507,
+  "solarTermBoundaries": 1068,
+  "officialDailyFixtures": 4,
+  "scope": "Korean birth / Gregorian 1962-2050",
+  "sources": [
+    "https://astro.kasi.re.kr/kor/almanac/solarTerms/download",
+    "https://astro.kasi.re.kr/life/pageView/5",
+    "https://data.iana.org/time-zones/tzdb/asia",
+    "https://github.com/6tail/lunar-javascript"
+  ],
+  "sourceSha256": "508761248c7d18eb1ca1bcb1fcace2ba29f3f511d085321ae1e633c74d8e9e34",
+  "limitations": [
+    "Not a validation of fortune-telling efficacy",
+    "KASI terms rounded to minutes",
+    "No longitude/equation-of-time correction",
+    "Parent relations are day-stem/day-branch reference only"
+  ],
+  "nodeTZDB": "2025b"
+}

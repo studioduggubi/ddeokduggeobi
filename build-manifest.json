@@ -1,0 +1,42 @@
+[
+  {
+    "path": "docs/.nojekyll",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "docs/assets/index-C_bHM7kr.css",
+    "size": 136450,
+    "sha256": "5fef2fd1f2f800bba4de7bbfae13903a68ef3fdb492b3635652d01dc7abafd9e"
+  },
+  {
+    "path": "docs/assets/index-D6Pr6JO1.js",
+    "size": 299596,
+    "sha256": "fe516a27da4e89c317688000ef7df61276fc8efd3731581ec74424a9964faa69"
+  },
+  {
+    "path": "docs/favicon.svg",
+    "size": 452,
+    "sha256": "4044218f7af1f5d5bf727b0193ba60328c3f318ac9653fec5edbd33263be49da"
+  },
+  {
+    "path": "docs/index.html",
+    "size": 814,
+    "sha256": "6ef30c8f832b834883f6bc759f65dc9fe69b67c335834ba54dc9841c2400052d"
+  },
+  {
+    "path": "docs/reference-report.pdf",
+    "size": 123007,
+    "sha256": "cf65ff75507f73eb0aaf5a7e2921fda1e60e042677756e636ceb2377e8bdbe9d"
+  },
+  {
+    "path": "docs/research.html",
+    "size": 17288,
+    "sha256": "fcdced7180f4e8b02f6fc1459182600200c50dae4d416e1528f1aab49f75d029"
+  },
+  {
+    "path": "docs/validation.json",
+    "size": 835,
+    "sha256": "29e9697c9e21d037b5ddfd0f4bc743e8b192103ba99a2b5ed7860f16502497c9"
+  }
+]
